@@ -1,12 +1,12 @@
-# flight_delay
+# flight_delay (Devt progress)
 Delay is one of the most known performance indicators of any transportation system. It has many negative impacts and as I focus on flight data analytics, I think that Flight Delay prediction is crucial and quite important in commercial aviation.
 
 
-TIME SERIES DATA
+# TIME SERIES DATA
 I thought of encoding the time-series data with their respective timestamp embeddings[x] to a fixed size vector representation [s].
 
 
-TEMPORAL DATA
+# TEMPORAL FEATURES
 
 GRAM Matrix structure
 - A good 2D representation for univariate time-series data
@@ -21,4 +21,17 @@ GRAM matrix is a useful tool in linear algrebra and Geometry
 Also to read: The naive implementation and Min-Max Scaling
 
 
-SPATIAL DATA
+# SPATIAL FEATURES
+
+# DECISION TRESS
+
+# RANDOM FOREST
+
+# LOGISTIC REGRESSION
+
+# TEMPORAL LSTM
+
+# SPATIAL LSTM
+
+# SPATIAL TEMPORAL LSTM
+
