@@ -6,7 +6,7 @@ Delay is one of the most known performance indicators of any transportation syst
 I thought of encoding the time-series data with their respective timestamp embeddings[x] to a fixed size vector representation [s].
 
 
-# TEMPORAL FEATURES
+# Temporal Features
 
 GRAM Matrix structure
 - A good 2D representation for univariate time-series data
@@ -21,7 +21,8 @@ GRAM matrix is a useful tool in linear algrebra and Geometry
 Also to read: The naive implementation and Min-Max Scaling
 
 
-# SPATIAL FEATURES
+# Spatial features
+
 
 # Decision trees
 
