@@ -23,15 +23,15 @@ Also to read: The naive implementation and Min-Max Scaling
 
 # SPATIAL FEATURES
 
-# DECISION TRESS
+# Decision trees
 
-# RANDOM FOREST
+# Random Forest
 
-# LOGISTIC REGRESSION
+# Logistic regression
 
-# TEMPORAL LSTM
+# Temporal LSTM
 
-# SPATIAL LSTM
+# Spatial LSTM
 
-# SPATIAL TEMPORAL LSTM
+# Spatial Temporal LSTM
 
